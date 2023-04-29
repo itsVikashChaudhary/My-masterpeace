@@ -9,6 +9,8 @@ git add. // to add all unaded file to git staging area
 
 git commit -m " commit message"//( -m is for add commit message )
 
+git log // to check the commited values log
+
 git diff filename // to check the difference bitween the committed file and new edit file
 
 git checkout filename // to reverte back the file data toe previous committed data
@@ -16,4 +18,8 @@ git checkout filename // to reverte back the file data toe previous committed da
 
 // how we can create a remote repositary
 
+git remote add origin {(https://github.com/itsVikashChaudhary/My-masterpeace.git
+)//repositary url}
+
+git push -u  origin master // to push your loclal repositary into origin to master branch
 
