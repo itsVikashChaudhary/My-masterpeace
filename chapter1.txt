@@ -1,2 +1,12 @@
 it was best to time ,it was worst to timels
+git init   // to initialize the git file in same folder
+
+git status  // to check the commit status of files
+
+git add file name  // to add to file to staging area to commit (not commited yet) after theis we track the status of file
+
+git add. // to add all unaded file to git staging area
+
+git commit -m " commit message"//( -m is for add commit message )
+
 
