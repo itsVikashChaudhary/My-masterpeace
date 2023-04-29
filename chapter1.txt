@@ -9,4 +9,11 @@ git add. // to add all unaded file to git staging area
 
 git commit -m " commit message"//( -m is for add commit message )
 
+git diff filename // to check the difference bitween the committed file and new edit file
+
+git checkout filename // to reverte back the file data toe previous committed data
+
+
+// how we can create a remote repositary
+
 
